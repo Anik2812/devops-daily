@@ -3,7 +3,6 @@ name: 'Anik'
 slug: 'anik'
 title: 'DevOps Engineer'
 bio: 'DevOps engineer focused on containerized infrastructure and automation, Docker, Kubernetes, and Terraform-driven deployments with CI/CD pipelines built for reliability under failure.'
-avatar: '/images/experts/anik.jpg'
 specialties:
   - Docker
   - Kubernetes
